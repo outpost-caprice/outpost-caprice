@@ -19,6 +19,9 @@ Here are some of the technologies I work with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outpost-caprice
 )](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outpost-caprice)]
+(https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 What I'm currently working on:
 
 - **Project 1**: A full-stack web application for [describe purpose]. It's built with [Technologies used] and aims to [Project objective].
